@@ -1,0 +1,15 @@
+ESERCITAZIONE 1
+1) Lettura e stampa di due numeri.
+2) Stampa divisione e resto
+
+ESERCITAZIONE 2
+1) Stampa concatenata
+2) Lettura del voto della verifica e stampa se è suff. o ins.
+3) Lettura di un numero e stampa del messaggio se è pari o dispari
+
+ESERCITAZIONE 3
+1) Stampa 5 volte il messsaggio "CIAO A TUTTI"
+
+ESERCITAZIONE 4
+1) Lettura del nome di un prodotto e il relativo prezzo: stampa il prezzo scontato del 5%.
+2) Lettura di due numeri stampa se il primo è maggiore o uguale al secondo o se è minore.
