@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="es2_1"/>
+        <attribute name="authors" value="lucam"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-10-16 06:51:12 "/>
+        <attribute name="created" value="bHVjYW07TEVOT1ZPMTkxMDsyMDI1LTEwLTE2OyIwNjo0MDowNSAiOzIzODc="/>
+        <attribute name="edited" value="bHVjYW07TEVOT1ZPMTkxMDsyMDI1LTEwLTE2OyIwNjo1MToxMiAiOzM7MjQ5Nw=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="numero" type="Integer" array="False" size=""/>
+            <output expression="&quot;Inserisci un numero: &quot;" newline="False"/>
+            <input variable="numero"/>
+            <if expression="numero%2==0">
+                <then>
+                    <output expression="&quot;Il numero &quot;&amp;numero&amp; &quot; &#232; pari&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Il numero &quot;&amp;numero&amp; &quot; &#232; dispari&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

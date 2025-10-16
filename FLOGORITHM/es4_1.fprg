@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="es4_1"/>
+        <attribute name="authors" value="lucam"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-10-16 06:59:44 "/>
+        <attribute name="created" value="bHVjYW07TEVOT1ZPMTkxMDsyMDI1LTEwLTE2OyIwNjo1NjoxNiAiOzIzOTY="/>
+        <attribute name="edited" value="bHVjYW07TEVOT1ZPMTkxMDsyMDI1LTEwLTE2OyIwNjo1OTo0NCAiOzE7MjUwOA=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="nome" type="String" array="False" size=""/>
+            <declare name="prezzo, prezzoScontato" type="Real" array="False" size=""/>
+            <output expression="&quot;Inserisci il nome del prodotto: &quot;" newline="False"/>
+            <input variable="nome"/>
+            <output expression="&quot;Inserisci il prezzo del prodotto: &quot;" newline="False"/>
+            <input variable="prezzo"/>
+            <assign variable="prezzoScontato" expression="prezzo * 0.95"/>
+            <output expression="&quot;Il prezzo scontato del 5% &#232;: &quot;&amp;prezzoScontato" newline="False"/>
+        </body>
+    </function>
+</flowgorithm>

@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="es2_1"/>
+        <attribute name="authors" value="lucam"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-10-16 06:49:16 "/>
+        <attribute name="created" value="bHVjYW07TEVOT1ZPMTkxMDsyMDI1LTEwLTE2OyIwNjo0MDowNSAiOzIzODc="/>
+        <attribute name="edited" value="bHVjYW07TEVOT1ZPMTkxMDsyMDI1LTEwLTE2OyIwNjo0OToxNiAiOzI7MjUwNw=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="materia" type="String" array="False" size=""/>
+            <declare name="voto" type="Real" array="False" size=""/>
+            <output expression="&quot;Inserisci la materia della verifica: &quot;" newline="False"/>
+            <input variable="materia"/>
+            <output expression="&quot;Inserisci il voto: &quot;" newline="True"/>
+            <input variable="voto"/>
+            <if expression="voto &lt;6">
+                <then>
+                    <output expression="&quot;Voto negativo, devi studiare &quot; &amp;materia" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Ottimo lavoro, il voto &#232; positivo&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
