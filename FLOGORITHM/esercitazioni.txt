@@ -1,6 +1,6 @@
 ESERCITAZIONE 1
 1) Lettura e stampa di due numeri.
-2) Stampa divisione e resto
+2) Stampa quoziente e resto
 
 ESERCITAZIONE 2
 1) Stampa concatenata
