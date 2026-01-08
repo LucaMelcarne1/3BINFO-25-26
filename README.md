@@ -29,3 +29,6 @@ esempio di come strutturare un programma C++
                     
                 return 0;
         }
+
+<h3>INPUT/OUTPUT/VARIABILI</h3>
+<p><ul><li>FILE <a href="">variabili.cpp</a> </li></ul></p>
