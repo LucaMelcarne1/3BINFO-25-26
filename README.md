@@ -21,7 +21,7 @@ esempio di come strutturare un programma C++
                 //dichiarazione delle variabili
                 	
                 	
-                //input/manipolazione dei dati
+                //input-manipolazione dei dati
                 	
                 	
                 //stampa dei dati (output)
