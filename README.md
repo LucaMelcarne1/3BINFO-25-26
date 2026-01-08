@@ -15,17 +15,17 @@ esempio di un file .cpp
 
 esempio di come strutturare un programma C++
 
-        #include <iostream>
-        using namespace std;
-        int main() {
-        	//dichiarazione delle variabili
+#include <iostream>
+using namespace std;
+int main() {
+        //dichiarazione delle variabili
         	
         	
-        	//input/manipolazione dei dati
+        //input/manipolazione dei dati
         	
         	
-                //stampa dei dati (output)
+        //stampa dei dati (output)
             
             
-                return 0;
-        }
+        return 0;
+}
