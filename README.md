@@ -31,4 +31,4 @@ esempio di come strutturare un programma C++
         }
 
 <h3>INPUT/OUTPUT/VARIABILI</h3>
-<p><ul><li>FILE <a href="">variabili.cpp</a> </li></ul></p>
+<p><ul><li>FILE <a href="https://github.com/LucaMelcarne1/3BINFO-25-26/blob/main/variabili.cpp">variabili.cpp</a> </li></ul></p>
