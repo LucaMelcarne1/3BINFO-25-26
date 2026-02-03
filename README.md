@@ -3,11 +3,9 @@ CLASSE: 3B INFORMATICA - A.S. 2025/2026
 <h3>FLOWGORITHM</h3>
 <p><ul><li>FILE <a href="https://github.com/LucaMelcarne1/3BINFO-25-26/tree/main/FLOGORITHM">ESEMPI</a> </li></ul></p>
 
-<h3>C++</h3>
-<p>Il C++ è un linguaggio di programmazione ad alto livello, estremamente potente e utilizzato per creare sistemi operativi, videogiochi e software professionali.</p>
-            
-            <h3>Struttura base di un programma</h3>
-            <p>Ogni programma C++ segue uno schema standard. Vediamo il classico "Hello World":</p>
+
+<h3>Struttura base di un programma</h3>
+<p>Ogni programma C++ segue uno schema standard. Vediamo il classico "Hello World":</p>
 esempio di un file .cpp 
 
         
