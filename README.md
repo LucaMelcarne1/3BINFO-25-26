@@ -38,3 +38,16 @@ esempio di come strutturare un programma C++
 
 <h3>IF</h3>
 <p><ul><li>FILE <a href="https://github.com/LucaMelcarne1/3BINFO-25-26/blob/main/selezioni.cpp">selezioni.cpp</a> </li></ul></p>
+
+<h3>SWITCH</h3>
+<p><ul><li>FILE <a href="https://github.com/LucaMelcarne1/3BINFO-25-26/blob/main/switch.cpp">switch.cpp</a> </li></ul></p>
+
+<h3>WHILE -  DO WHILE</h3>
+<p><ul><li>FILE <a href="https://github.com/LucaMelcarne1/3BINFO-25-26/blob/main/while.cpp">while.cpp</a> </li></ul></p>
+
+<h3>FOR</h3>
+<p><ul><li>FILE <a href="https://github.com/LucaMelcarne1/3BINFO-25-26/blob/main/for.cpp">for.cpp</a> </li></ul></p>
+
+<h3>ARRAY</h3>
+<p><ul><li>FILE <a href="https://github.com/LucaMelcarne1/3BINFO-25-26/blob/main/array.cpp">array.cpp</a> </li></ul></p>
+
